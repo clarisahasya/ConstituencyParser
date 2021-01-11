@@ -1,0 +1,5 @@
+1. Pastikan file "kethu_example.mrg" dan file "tugas_pekan_6_nlp_constituency_parser.py" sudah dalam satu folder
+
+2. Kemudian run file .py dengan terminal. " python tugas_pekan_6_nlp_constituency_parser.py "
+
+3. Lalu akan ditampilkan top down, bottom up, shift reducer parser dari 3 kalimat pada bagian I, cek apakah grammar sudah dalam bentuk CNF, bottom up, viterbi parser dari 2 kalimat pada bagian II
